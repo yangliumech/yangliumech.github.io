@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Yang Liu's CV"
-permalink: files/cv_liuyang-oxford.pdf
+permalink: 
 author_profile: true
 redirect_from:
   - /resume
