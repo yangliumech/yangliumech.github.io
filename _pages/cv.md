@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Yang Liu's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, City University of Hong Kong, July 2015
+* B.S. in Mathematics and Applied Mathematics, Zhengzhou University, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2023: Marie-Curie Fellow
+  * Mathematical Institute, University of Oxford
+  * Supervisor: Prof. Alain Goriely FRS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2019: Associate Professor 
+  * Department of Mechanics, School of Mechanical Engineering, Tianjin University
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2015: Lecturer 
+  * Department of Mechanics, School of Mechanical Engineering, Tianjin University
   
 Skills
 ======
