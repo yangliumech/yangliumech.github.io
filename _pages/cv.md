@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Yang Liu's CV"
-permalink: cv.md
+permalink: <username>
 author_profile: true
 redirect_from:
   - /resume
@@ -18,7 +18,7 @@ Work experience
 ======
 * September 2023: Marie-Curie Fellow
   * Mathematical Institute, University of Oxford
-  * Supervisor: Prof. Alain Goriely FRS
+  * Supervisor: Prof. Alain Goriely FRS, Prof. Dominic Vella
 
 * July 2019: Associate Professor 
   * Department of Mechanics, School of Mechanical Engineering, Tianjin University
