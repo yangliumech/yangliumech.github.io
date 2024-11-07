@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Yang Liu's CV"
-permalink: pages/cv.md
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
