@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "Yang.jpg"
   name             : "Yang Liu"
-  pronouns         : "He" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  pronouns         : # example: "she/her"  
+  bio              : "Marie-Curie Fellow at Mathematical Institute"
+  location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : "https://www.maths.ox.ac.uk/people/yang.liu1" # URL
   email            : "Yang.Liu1@maths.ox.ac.uk" 
