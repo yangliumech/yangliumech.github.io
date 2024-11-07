@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "University of Oxford, Oriel College"
 date: 2024-01-03
-<!--- location: "City, Country"--->
+
 ---
 
 Tutorial teaching of Prelimas Dynamics
