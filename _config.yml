@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "Yang Liu -7.jpg"
   name             : "Yang Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "University of Oxford"
-  uri              : # URL
+  uri              : "https://www.maths.ox.ac.uk/people/yang.liu1" # URL
   email            : "Yang.Liu1@maths.ox.ac.uk" 
 
   # Academic websites
