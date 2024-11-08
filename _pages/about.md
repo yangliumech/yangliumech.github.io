@@ -7,15 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Yang is a postdoc
+I obtained my Bachelor of science in mathematics and applied mathematics from Zhengzhou University in 2010 and my PhD in applied mathematics from City University of Hong Kong in 2015. Since November 2015, I am a part of the Department of Mechanics, School of Mechanical Engineering, Tianjin University as a lecturer (November 2015-June 2019) and then as an associate professor (July 2019-September 2023). In September 2023, I moved to the Mathematical Institute, University of Oxford as a Marie Curie Research Fellow, working with Prof. Alain Goriely FRS and Prof. Dominic Vella. 
 
-Nonlinear elasticity
-======
-Somethign something
+My research interests encompass various aspects of mathematical modelling of soft active solids with applications to bio-inspired structure design and elastography of biological tissues. His work covers theoretical analysis, finite element simulations, and experimental investigations. He focuses particularly on pattern formation in soft solids and biological tissues, such as buckling, wrinkling, necking, and bulging. His expertise includes asymptotic analysis with applications to bifurcation analysis and wave propagation in soft elastomers, mechanics-guided metamaterials, and reduced theories such as rod/plate/shell models. 
 
-Rod theory
-======
-rods are cool
 
 Site-wide configuration
 ------
