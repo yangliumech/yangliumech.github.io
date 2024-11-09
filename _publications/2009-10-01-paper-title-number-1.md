@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Reduced model and nonlinear analysis of localized instabilities of residually stressed cylinders under axial stretc"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
