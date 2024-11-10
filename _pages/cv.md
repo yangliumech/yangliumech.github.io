@@ -63,6 +63,6 @@ Teaching
 * June 2016-July 2023. Postgraduate course: Continuum Mechanics (in English).
 * September 2011-August 2014, City University of Hong Kong, Teaching Assistant (in English), including tutorial lectures and assignments grading.
   
-<!--Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams-->
