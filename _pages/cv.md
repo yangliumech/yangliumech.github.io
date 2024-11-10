@@ -55,7 +55,7 @@ Teaching
 <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
-
+  
 * 2024-2025, Oriel College, University of Oxford, Tutor, Prelims Dynamics.
 * March 2021-July 2023, Tianjin University, Undergraduate course: Mechanics of Materials.
 * March 2021-present,Tianjin University, Undergraduate course: Advanced Elasticity.
