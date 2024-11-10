@@ -43,11 +43,11 @@ Selected Publications
   
 Selected Talks
 ======
-  1. Department of Mechanical and Production Engineering, Aarhus University, November 1, 2024, Aarhus, Denmark. Title: A mechanical model for elephant trunk wrinkles.
-  2. Applied and Computational Mathematics Seminars, Cardiff University, October 1, 2024, Cardiff, UK. Title: Surface wrinkling in film/substrate bilayers.
-  3. 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Localized instabilities of a residually stressed solid cylinder under stretch.
-  4. 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Instabilities of film/substrate bilayers.
-  5. International Workshop on “The coupled nonlinear continuum theory horizon”, July 1-5, 2024, Castro Urdiales, Spain. Title: Surface instabilities of a half-space coated by a liquid crystal elastomer film.
+* Department of Mechanical and Production Engineering, Aarhus University, November 1, 2024, Aarhus, Denmark. Title: A mechanical model for elephant trunk wrinkles.
+* Applied and Computational Mathematics Seminars, Cardiff University, October 1, 2024, Cardiff, UK. Title: Surface wrinkling in film/substrate bilayers.
+* 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Localized instabilities of a residually stressed solid cylinder under stretch.
+* 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Instabilities of film/substrate bilayers.
+* International Workshop on “The coupled nonlinear continuum theory horizon”, July 1-5, 2024, Castro Urdiales, Spain. Title: Surface instabilities of a half-space coated by a liquid crystal elastomer film.
   
   
 Teaching
