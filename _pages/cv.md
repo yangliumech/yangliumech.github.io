@@ -52,9 +52,9 @@ Selected Talks
   
 Teaching
 ======
- <ul>{% for post in site.teaching reversed %}
+<!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
 
 * 2024-2025, Oriel College, University of Oxford, Tutor, Prelims Dynamics.
 * March 2021-July 2023, Tianjin University, Undergraduate course: Mechanics of Materials.
