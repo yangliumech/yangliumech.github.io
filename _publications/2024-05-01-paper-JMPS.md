@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-05-01-paper-JMPS
 excerpt: 'Rui-Cheng Liu, Yang Liu and Alain Goriely'
-date: 2015-10-01
+date: 2024-05-01
 venue: 'Journal of the Mechanics and Physics of Solids, 186, 105603'
 <!--slidesurl: 'http://academicpages.github.io/files/slides3.pdf'-->
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022509624000693#:~:text=A%20typical%20set%2Dup%20to,et%20al.%2C%202019).'
