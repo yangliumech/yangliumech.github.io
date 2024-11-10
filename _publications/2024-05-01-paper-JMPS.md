@@ -3,7 +3,7 @@ title: "Surface wrinkling of a film coated to a graded substrate"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-01-paper-JMPS
-excerpt: 'Rui-Cheng Liu, Yang Liu， Alain Goriely'
+excerpt: 'Rui-Cheng Liu, Yang Liu and Alain Goriely'
 date: 2015-10-01
 venue: 'Journal of the Mechanics and Physics of Solids, 186, 105603'
 <!--slidesurl: 'http://academicpages.github.io/files/slides3.pdf'-->
