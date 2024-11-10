@@ -41,17 +41,27 @@ Selected Publications
 9. Lishuai Jin, Yang Liu and Zongxi Cai. Post-buckling analysis on growing tubular tissues: A semi-analytical approach and imperfection sensitivity. International Journal of Solids and structures. 2019, 162, 121–134.
 10. Yang Liu. Axial and circumferential buckling of a hyperelastic tube under restricted compression. International Journal of Non-linear Mechanics. 2018, 98, 145–153.
   
-Talks
+Selected Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  1. Department of Mechanical and Production Engineering, Aarhus University, November 1, 2024, Aarhus, Denmark. Title: A mechanical model for elephant trunk wrinkles.
+  2. Applied and Computational Mathematics Seminars, Cardiff University, October 1, 2024, Cardiff, UK. Title: Surface wrinkling in film/substrate bilayers.
+  3. 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Localized instabilities of a residually stressed solid cylinder under stretch.
+  4. 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Instabilities of film/substrate bilayers.
+  5. International Workshop on “The coupled nonlinear continuum theory horizon”, July 1-5, 2024, Castro Urdiales, Spain. Title: Surface instabilities of a half-space coated by a liquid crystal elastomer film.
+  
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+1. 2024-2025, Oriel College, University of Oxford, Tutor, Prelims Dynamics.
+2. March 2021-July 2023, Tianjin University, Undergraduate course: Mechanics of Materials.
+3. March 2021-present,Tianjin University, Undergraduate course: Advanced Elasticity.
+4. September 2018-December 2019, Tianjin University, Undergraduate course: Engineering Mechanics.
+5. June 2016-July 2023. Postgraduate course: Continuum Mechanics (in English).
+6. September 2011-August 2014, City University of Hong Kong, Teaching Assistant (in English), including tutorial lectures and assignments grading.
   
 Service and leadership
 ======
