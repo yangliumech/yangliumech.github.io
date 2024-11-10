@@ -1,7 +1,7 @@
 ---
 title: "Surface wrinkling of a hyperelastic half-space coated by a liquid crystal elastomer film"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-08-01-paper-IJSS
 excerpt: 'Yang Liu, Qianqian Ji, Alain Goriely'
 date: 2024-08-01
