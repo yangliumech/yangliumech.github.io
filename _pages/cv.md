@@ -62,6 +62,15 @@ Teaching
 * September 2018-December 2019, Tianjin University, Undergraduate course: Engineering Mechanics.
 * June 2016-July 2023. Postgraduate course: Continuum Mechanics (in English).
 * September 2011-August 2014, City University of Hong Kong, Teaching Assistant (in English), including tutorial lectures and assignments grading.
+
+Grants
+======
+* Research on force/thermal/light-induced deformation of liquid crystal elastomers based on incremental theory and finite-strain plate/shell models. National Natural Science Foundation of China, 2023, PI.
+* Accurate control of bending and twisting of liquid crystal elastomers with applications to mechanical metamaterial designin. Tianjin University, 2023, PI.
+* Pattern Formation in Soft Materials: Reduced Models and Non-linear Analysis (SOFT-PATTERN). Marie Słkodowska-Curie fellowship, 2023, PI.
+* Intelligent analysis of cutterhead and digital tunnelling technique. China Railway Engineering Equipment Group Co., LTD. 2022, PI.
+* Post-buckling analysis of soft materials with applications to elastic wave regulations. Natural Science Foundation of China, 2020, PI.
+* tability and deformation analysis of thin liquid crystal elastomer film and tube under mechanical loads. Natural Science Foundation of China, 2016, PI.
   
 <!-- Service and leadership
 ======
