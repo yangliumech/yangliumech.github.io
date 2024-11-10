@@ -29,9 +29,6 @@ Work experience
   
 Selected Publications
 ======
- # <ul>{% for post in site.publications reversed %}
- #   {% include archive-single-cv.html %}
- # {% endfor %}</ul>
   
 1. Yang Liu, Qianqian Ji and Alain Goriely. Surface wrinkling of a hyperelastic half-space coated by a liquid crystal elastomer film. International Journal of Solids and Structures. 2024, 299, 112895.
 2. Rui-Cheng Liu, Yang Liu and Alain Goriely. Surface wrinkling of a film coated to a graded substrate. Journal of the Mechanics and Physics of Solids. 2024, 186, 105603.  
