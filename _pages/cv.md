@@ -25,21 +25,18 @@ Work experience
 
 * November 2015: Lecturer 
   * Department of Mechanics, School of Mechanical Engineering, Tianjin University
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+  
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+1. Yang Liu, Qianqian Ji and Alain Goriely. Surface wrinkling of a hyperelastic half-space
+coated by a liquid crystal elastomer film. International Journal of Solids and Structures.
+2024, 299, 112895.
+2. Yang Liu, Xiang Yu and Luis Dorfmann. Reduced model and nonlinear analysis of localized instabilities of residually stressed cylinders under axial stretch. Mathematics
+and Mechanics of Solids. 2024, 29(9), 1879–1899.
   
 Talks
 ======
