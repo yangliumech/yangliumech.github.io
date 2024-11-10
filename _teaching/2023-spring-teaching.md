@@ -3,8 +3,8 @@ title: "Mechanics of Materials"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching
-venue: "University 1, Department"
-date: 2023-01-01
+venue: "Department of Mechanics, Tianjin University"
+date: 2023
 location: "Tianjin, China"
 ---
 
