@@ -1,7 +1,7 @@
 ---
 title: "Mechanics of Materials"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching
 venue: "University 1, Department"
 date: 2023-01-01
