@@ -15,5 +15,5 @@ My research interests encompass various aspects of mathematical modelling of sof
 Nonlinear elasticity
 =======
 
-Mathematical modellinh of liquid crystal elastomers 
+Mathematical modelling of liquid crystal elastomers 
 =======
