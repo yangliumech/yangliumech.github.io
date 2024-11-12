@@ -1,5 +1,5 @@
 ---
-title: "Prelimas Dynamics"
+title: "Prelims Dynamics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching
