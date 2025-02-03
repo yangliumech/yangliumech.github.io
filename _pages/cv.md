@@ -48,7 +48,19 @@ Selected Talks
 * 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Localized instabilities of a residually stressed solid cylinder under stretch.
 * 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Instabilities of film/substrate bilayers.
 * International Workshop on “The coupled nonlinear continuum theory horizon”, July 1-5, 2024, Castro Urdiales, Spain. Title: Surface instabilities of a half-space coated by a liquid crystal elastomer film.
-  
+
+Awards
+======
+* Mechanics of Materials Young Investigator Award, 2024.
+* Selected as a Leading Talent in Scientific and Technological Innovation at Tianjin University, 2023.
+* First Prize of Tianjin Science and Technology Progress Award (9/12), 2023.
+* Silver Medal in The 48th International Exhibition of Inventions of Geneva (2/10), 2023.
+* Excellent Poster Award of the 1st Interdisciplinary Research Forum on the Frontiers of Mechanics, 2023.
+* Marie Skłodowska-Curie Fellowship, 2023.
+* First Prize of Teaching Achievement Award of Tianjin City (11/15), 2022.
+* Second Prize of Graduate Education and Teaching Achievement Award of Tianjin University (3/8), 2022.
+* ACRI “YOUNG INVESTIGATOR TRAINING PROGRAM 2018” fellowship, 2019.
+* Zhi-Kang Shen Award of Tianjin University, 2018.
   
 Teaching
 ======
