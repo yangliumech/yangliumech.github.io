@@ -30,7 +30,7 @@ Work experience
 Selected Publications
 ======
   
-1. Tao Zhang, Luis Dorfmann, Yang Liu∗. Buckling of residually stressed cylindrical tubes under compression. International Journal of Solids and Structures. 2025, 321, 113578.
+1. Tao Zhang, Luis Dorfmann, Yang Liu. Buckling of residually stressed cylindrical tubes under compression. International Journal of Solids and Structures. 2025, 321, 113578.
 2. Yang Liu, Rui-Cheng Liu, Wanyu Ma and Alain Goriely. Post-buckling of fiber-reinforced soft tissues. Journal of the Mechanics and Physics of Solids. 2025, 203, 106220.
 3. Yang Liu, Alain Goriely, L. Angela Mihai. Elephant trunk wrinkles: A mathematical model of function and form. Nonlinearity. 2025, 38(3), 035004.
 4. Yang Liu, Qianqian Ji and Alain Goriely. Surface wrinkling of a hyperelastic half-space coated by a liquid crystal elastomer film. International Journal of Solids and Structures. 2024, 299, 112895.
