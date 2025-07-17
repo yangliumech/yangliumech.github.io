@@ -30,16 +30,18 @@ Work experience
 Selected Publications
 ======
   
-1. Yang Liu, Alain Goriely, L. Angela Mihai. Elephant trunk wrinkles: A mathematical model of function and form. Nonlinearity. 2025, 38(3), 035004.
-2. Yang Liu, Qianqian Ji and Alain Goriely. Surface wrinkling of a hyperelastic half-space coated by a liquid crystal elastomer film. International Journal of Solids and Structures. 2024, 299, 112895.
-3. Rui-Cheng Liu, Yang Liu and Alain Goriely. Surface wrinkling of a film coated to a graded substrate. Journal of the Mechanics and Physics of Solids. 2024, 186, 105603.  
-4. Yang Liu, Xiang Yu and Luis Dorfmann. Reduced model and nonlinear analysis of localized instabilities of residually stressed cylinders under axial stretch. Mathematics and Mechanics of Solids. 2024, 29(9), 1879–1899.
-5. Yang Liu. Higher order solution to the Euler buckling threshold for compressible hyperelastic bilayers. Acta Mechanica Sinica. 2023, 39(8), 422379.
-6. Yang Liu, Tian Liang, Yuxin Fu, Yu-Xin Xie and Yue-Sheng Wang. A novel buckling pattern in periodically porous elastomers with applications to elastic wave regulations. Extreme Mechanics Letters. 2022, 54, 101781.
-7. Rui-Cheng Liu, Yang Liu and Zongxi Cai. Influence of the growth gradient on surface wrinkling and pattern transition in growing tubular tissues. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2021, 477(2254), 20210441.
-8. Yang Liu, Wendi Ma and Hui-Hui Dai. On a consistent finite-strain plate model of nematic liquid crystal elastomers. Journal of the Mechanics and Physics of Solids. 2020, 145, 104169.
-9. Yang Liu, Yang Ye, Ali Althobaiti and Yu-Xin Xie. Prevention of localized bulging in an inflated bilayer tube. International Journal of Mechanical Sciences. 2019, 153–154, 359–368.
-10. Lishuai Jin, Yang Liu and Zongxi Cai. Post-buckling analysis on growing tubular tissues: A semi-analytical approach and imperfection sensitivity. International Journal of Solids and structures. 2019, 162, 121–134.
+1. Tao Zhang, Luis Dorfmann, Yang Liu∗. Buckling of residually stressed cylindrical tubes under compression. International Journal of Solids and Structures. 2025, 321, 113578.
+2. Yang Liu, Rui-Cheng Liu, Wanyu Ma and Alain Goriely. Post-buckling of fiber-reinforced soft tissues. Journal of the Mechanics and Physics of Solids. 2025, 203, 106220.
+3. Yang Liu, Alain Goriely, L. Angela Mihai. Elephant trunk wrinkles: A mathematical model of function and form. Nonlinearity. 2025, 38(3), 035004.
+4. Yang Liu, Qianqian Ji and Alain Goriely. Surface wrinkling of a hyperelastic half-space coated by a liquid crystal elastomer film. International Journal of Solids and Structures. 2024, 299, 112895.
+5. Rui-Cheng Liu, Yang Liu and Alain Goriely. Surface wrinkling of a film coated to a graded substrate. Journal of the Mechanics and Physics of Solids. 2024, 186, 105603.  
+6. Yang Liu, Xiang Yu and Luis Dorfmann. Reduced model and nonlinear analysis of localized instabilities of residually stressed cylinders under axial stretch. Mathematics and Mechanics of Solids. 2024, 29(9), 1879–1899.
+7. Yang Liu. Higher order solution to the Euler buckling threshold for compressible hyperelastic bilayers. Acta Mechanica Sinica. 2023, 39(8), 422379.
+8. Yang Liu, Tian Liang, Yuxin Fu, Yu-Xin Xie and Yue-Sheng Wang. A novel buckling pattern in periodically porous elastomers with applications to elastic wave regulations. Extreme Mechanics Letters. 2022, 54, 101781.
+9. Rui-Cheng Liu, Yang Liu and Zongxi Cai. Influence of the growth gradient on surface wrinkling and pattern transition in growing tubular tissues. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2021, 477(2254), 20210441.
+10. Yang Liu, Wendi Ma and Hui-Hui Dai. On a consistent finite-strain plate model of nematic liquid crystal elastomers. Journal of the Mechanics and Physics of Solids. 2020, 145, 104169.
+<!--11. Yang Liu, Yang Ye, Ali Althobaiti and Yu-Xin Xie. Prevention of localized bulging in an inflated bilayer tube. International Journal of Mechanical Sciences. 2019, 153–154, 359–368.
+12. Lishuai Jin, Yang Liu and Zongxi Cai. Post-buckling analysis on growing tubular tissues: A semi-analytical approach and imperfection sensitivity. International Journal of Solids and structures. 2019, 162, 121–134.-->
   
 Selected Talks
 ======
