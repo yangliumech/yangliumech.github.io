@@ -45,6 +45,9 @@ Selected Publications
   
 Selected Talks
 ======
+* 12th European Solid Mechanics Conference, July 6-11, 2025, Lyon, France. Title: Post-buckling of fiber-reinforced materials.
+* Applied Mathematics Seminar, Keele University, April 2, 2025, Keele, UK. Title: Membrane wrinkling and collective cell behaviours.
+* “Nonlinear Elasticity and All That” On the occasion of Giuseppe Saccomandi’s 60th birthday, November 19-22, 2024, Bari, Italy. Title: Buckling and post-buckling of fiber-   reinforced tissues.
 * Department of Mechanical and Production Engineering, Aarhus University, November 1, 2024, Aarhus, Denmark. Title: A mechanical model for elephant trunk wrinkles.
 * Applied and Computational Mathematics Seminars, Cardiff University, October 1, 2024, Cardiff, UK. Title: Surface wrinkling in film/substrate bilayers.
 * 2024 SES Annual Technical Meeting, August 20-23, 2024, Hangzhou, China. Title: Localized instabilities of a residually stressed solid cylinder under stretch.
