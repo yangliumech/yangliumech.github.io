@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* July 2019 - August 2023: Associate Professor 
+* September 2025: Associate Professor 
   * Department of Mechanics, School of Mechanical Engineering, Tianjin University
   * 
 * September 2023 - August 2025: Marie-Curie Fellow
