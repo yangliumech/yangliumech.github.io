@@ -16,14 +16,17 @@ Education
 
 Work experience
 ======
-* September 2023: Marie-Curie Fellow
+* July 2019 - August 2023: Associate Professor 
+  * Department of Mechanics, School of Mechanical Engineering, Tianjin University
+  * 
+* September 2023 - August 2025: Marie-Curie Fellow
   * Mathematical Institute, University of Oxford
   * Supervisor: Prof. Alain Goriely FRS, Prof. Dominic Vella
 
-* July 2019: Associate Professor 
+* July 2019 - August 2023: Associate Professor 
   * Department of Mechanics, School of Mechanical Engineering, Tianjin University
 
-* November 2015: Lecturer 
+* November 2015 - June 2019: Lecturer 
   * Department of Mechanics, School of Mechanical Engineering, Tianjin University
 
   
