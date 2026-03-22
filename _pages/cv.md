@@ -43,8 +43,8 @@ Selected Publications
 8. Yang Liu, Tian Liang, Yuxin Fu, Yu-Xin Xie and Yue-Sheng Wang. A novel buckling pattern in periodically porous elastomers with applications to elastic wave regulations. Extreme Mechanics Letters. 2022, 54, 101781.
 9. Rui-Cheng Liu, Yang Liu and Zongxi Cai. Influence of the growth gradient on surface wrinkling and pattern transition in growing tubular tissues. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2021, 477(2254), 20210441.
 10. Yang Liu, Wendi Ma and Hui-Hui Dai. On a consistent finite-strain plate model of nematic liquid crystal elastomers. Journal of the Mechanics and Physics of Solids. 2020, 145, 104169.
-<!--11. Yang Liu, Yang Ye, Ali Althobaiti and Yu-Xin Xie. Prevention of localized bulging in an inflated bilayer tube. International Journal of Mechanical Sciences. 2019, 153–154, 359–368.
-12. Lishuai Jin, Yang Liu and Zongxi Cai. Post-buckling analysis on growing tubular tissues: A semi-analytical approach and imperfection sensitivity. International Journal of Solids and structures. 2019, 162, 121–134.-->
+<!--11. Yang Liu, Yang Ye, Ali Althobaiti and Yu-Xin Xie. Prevention of localized bulging in an inflated bilayer tube. International Journal of Mechanical Sciences. 2019, 153–154, 359–368.-->
+<!--12. Lishuai Jin, Yang Liu and Zongxi Cai. Post-buckling analysis on growing tubular tissues: A semi-analytical approach and imperfection sensitivity. International Journal of Solids and structures. 2019, 162, 121–134.-->
   
 Selected Talks
 ======
