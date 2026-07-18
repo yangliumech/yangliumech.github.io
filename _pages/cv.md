@@ -33,7 +33,7 @@ Work experience
 Selected Publications
 ======
   
-1. Yang Liu, Sepideh Razavid, Pietro Cicuta, Dominic Vella and Alain Goriely. Tensional wrinkling of thin elastic sheets with two circular holes. Journal of the Mechanics and Physics of Solids. 2026, 216, 106760.
+1. Yang Liu, Sepideh Razavid, Pietro Cicuta, Dominic Vella, Alain Goriely. Tensional wrinkling of thin elastic sheets with two circular holes. Journal of the Mechanics and Physics of Solids. 2026, 216, 106760.
 2. Zhenwei Liu, Yang Liu, Yue-Sheng Wang. On wave propagation of pre-stressed hyperelastic bilayers. International Journal of Engineering Science. 2026, 223, 104515.
 3. Tao Zhang, Luis Dorfmann, Yang Liu. Buckling of residually stressed cylindrical tubes under compression. International Journal of Solids and Structures. 2025, 321, 113578.
 4. Yang Liu, Rui-Cheng Liu, Wanyu Ma and Alain Goriely. Post-buckling of fiber-reinforced soft tissues. Journal of the Mechanics and Physics of Solids. 2025, 203, 106220.
