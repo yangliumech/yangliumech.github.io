@@ -33,14 +33,14 @@ Work experience
 Selected Publications
 ======
   
-1. Zhenwei Liu, Yang Liu, Yue-Sheng Wang. On wave propagation of pre-stressed hyperelastic bilayers. International Journal of Engineering Science. 2026, 223, 104515.
-2. Tao Zhang, Luis Dorfmann, Yang Liu. Buckling of residually stressed cylindrical tubes under compression. International Journal of Solids and Structures. 2025, 321, 113578.
-3. Yang Liu, Rui-Cheng Liu, Wanyu Ma and Alain Goriely. Post-buckling of fiber-reinforced soft tissues. Journal of the Mechanics and Physics of Solids. 2025, 203, 106220.
-4. Yang Liu, Alain Goriely, L. Angela Mihai. Elephant trunk wrinkles: A mathematical model of function and form. Nonlinearity. 2025, 38(3), 035004.
-5. Yang Liu, Qianqian Ji and Alain Goriely. Surface wrinkling of a hyperelastic half-space coated by a liquid crystal elastomer film. International Journal of Solids and Structures. 2024, 299, 112895.
-6. Rui-Cheng Liu, Yang Liu and Alain Goriely. Surface wrinkling of a film coated to a graded substrate. Journal of the Mechanics and Physics of Solids. 2024, 186, 105603.
-7. Yang Liu. Higher order solution to the Euler buckling threshold for compressible hyperelastic bilayers. Acta Mechanica Sinica. 2023, 39(8), 422379.
-8. Yang Liu, Tian Liang, Yuxin Fu, Yu-Xin Xie and Yue-Sheng Wang. A novel buckling pattern in periodically porous elastomers with applications to elastic wave regulations. Extreme Mechanics Letters. 2022, 54, 101781.
+1. Yang Liu, Sepideh Razavid, Pietro Cicuta, Dominic Vella and Alain Goriely∗. Tensional wrinkling of thin elastic sheets with two circular holes. Journal of the Mechanics and Physics of Solids. 2026, 216, 106760.
+2. Zhenwei Liu, Yang Liu, Yue-Sheng Wang. On wave propagation of pre-stressed hyperelastic bilayers. International Journal of Engineering Science. 2026, 223, 104515.
+3. Tao Zhang, Luis Dorfmann, Yang Liu. Buckling of residually stressed cylindrical tubes under compression. International Journal of Solids and Structures. 2025, 321, 113578.
+4. Yang Liu, Rui-Cheng Liu, Wanyu Ma and Alain Goriely. Post-buckling of fiber-reinforced soft tissues. Journal of the Mechanics and Physics of Solids. 2025, 203, 106220.
+5. Yang Liu, Alain Goriely, L. Angela Mihai. Elephant trunk wrinkles: A mathematical model of function and form. Nonlinearity. 2025, 38(3), 035004.
+6. Yang Liu, Qianqian Ji and Alain Goriely. Surface wrinkling of a hyperelastic half-space coated by a liquid crystal elastomer film. International Journal of Solids and Structures. 2024, 299, 112895.
+7. Rui-Cheng Liu, Yang Liu and Alain Goriely. Surface wrinkling of a film coated to a graded substrate. Journal of the Mechanics and Physics of Solids. 2024, 186, 105603.
+8. Yang Liu. Higher order solution to the Euler buckling threshold for compressible hyperelastic bilayers. Acta Mechanica Sinica. 2023, 39(8), 422379.
 9. Rui-Cheng Liu, Yang Liu and Zongxi Cai. Influence of the growth gradient on surface wrinkling and pattern transition in growing tubular tissues. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2021, 477(2254), 20210441.
 10. Yang Liu, Wendi Ma and Hui-Hui Dai. On a consistent finite-strain plate model of nematic liquid crystal elastomers. Journal of the Mechanics and Physics of Solids. 2020, 145, 104169.
 
